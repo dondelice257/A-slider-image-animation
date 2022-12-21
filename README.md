@@ -1,1 +1,1 @@
-# A-slider-image-animation
+# A slider-image-animation automatically and manually
