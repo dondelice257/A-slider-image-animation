@@ -1,6 +1,6 @@
 
         var slideList = document.getElementById('slideList');
-        var next = document.getElementById('next');
+        var next = document.getElementById('nex');
         var prev = document.getElementById('prev');
         var items =5;
         var count = 1;
