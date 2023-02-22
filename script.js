@@ -1,5 +1,5 @@
 
-        var slideList = document.getElementById('slide');
+        var slideList = document.getElementById('slideList');
         var next = document.getElementById('next');
         var prev = document.getElementById('prev');
         var items =5;
