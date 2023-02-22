@@ -4,7 +4,7 @@
         var prev = document.getElementById('prev');
         var items =5;
         var count = 1;
-        var star1 = document.getElementById('star');
+        var star1 = document.getElementById('star1');
         var star2 = document.getElementById('star2');
         var star3 = document.getElementById('star3');
         var star4 = document.getElementById('star4');
