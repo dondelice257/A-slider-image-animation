@@ -10,7 +10,7 @@
         var star4 = document.getElementById('star4');
         var star5 = document.getElementById('star5');
         var pres = document.getElementById('pres');
-        var names = []
+        var names = 
 
        
 
