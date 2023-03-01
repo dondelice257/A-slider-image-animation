@@ -9,7 +9,7 @@
         var star3 = document.getElementById('star3');
         var star4 = document.getElementById('star4');
         var star5 = document.getElementById('star5');
-        var pres = document.getElementById('pres3');
+        var pres = document.getElementById('pres4');
         var names = []
 
        
